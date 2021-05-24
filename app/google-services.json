@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77038838370",
+    "project_id": "devops-script-automation",
+    "storage_bucket": "devops-script-automation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77038838370:android:992c6ab994f12e2818a73b",
+        "android_client_info": {
+          "package_name": "com.example.devops_script_automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77038838370-bmckd5bak7vl6rb2lto8qc13ru85giev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQbGX-sjQwJxrnoCc38g6c-oUqLBJu7cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77038838370-bmckd5bak7vl6rb2lto8qc13ru85giev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
